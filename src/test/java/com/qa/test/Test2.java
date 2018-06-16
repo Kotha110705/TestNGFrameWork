@@ -8,7 +8,7 @@ public class Test2 {
   @Test
   public void f() {
 	  
-	  System.out.println("Test2");
+	  System.out.println("This is Test2");
   }
   @BeforeMethod
   public void beforeMethod() {
